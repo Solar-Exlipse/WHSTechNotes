@@ -8,3 +8,6 @@ One of the many flaws I see in this law is the fact that students can't use thei
 
 # September 8, 2025
 Computer Science could be invaluable since I am always going to need to program and code games if I want to be a game developer. This is because I need to program different games, figure out different ways to code said games, and even find ways I can, hopefully, make the games as fun as possible with the limitations of code. 
+
+ # September 15, 2025
+I would try to use the AI to help others learn how to read. This fits the requirement because the AI is useful in the education quality.
