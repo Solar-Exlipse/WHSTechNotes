@@ -14,3 +14,6 @@ I would try to use the AI to help others learn how to read. This fits the requir
 
 # September 22, 2025
 Working at a virtual store for real money is a horrible idea. This is because, given the state of the world, it'll be incredibly easy to scam or hack other people's account to get more money with nothing stopping them. We already see that having a virtual payment method-like CashApp-means sometimes, you can get hacked out of alot of money, and in Roblox, it could be easy to scam people out of money then the thing is worth. 
+
+# September 30, 2025
+I don't understand why anyone uses '6 7.' in the slightest.
