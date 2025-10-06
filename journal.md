@@ -17,3 +17,6 @@ Working at a virtual store for real money is a horrible idea. This is because, g
 
 # September 30, 2025
 I don't understand why anyone uses '6 7.' in the slightest.
+
+# October 6, 2025
+If I was in control of the electronic and AI policy in my school, my policy would be that using any sort of AI would be banned, and that in class electronic use(Ie, headphones, phones, etc,) would be banned but you could use your phone in passing period and in the cafeteria. Playing games on the chromebook would be banned in class, but on personal time if you decide to use the the chromebook, games can be played. Most of them would be banned, though. 
