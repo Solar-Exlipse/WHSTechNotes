@@ -24,3 +24,6 @@ If I was in control of the electronic and AI policy in my school, my policy woul
 # October 7, 2025
 The Hourofcode acitivity I completed was the activity called Compute It. Compute It shows you code and you have to be the one who does the code using a dot and some circles.
 cafeteria. Playing games on the chromebook would be banned in class, but on personal time if you decide to use the the chromebook, games can be played. Most of them would be banned, though. 
+
+# October 8, 2025
+I did the same Hourofcode activity as yesterday, the Compute It activity because it seems to be the only one that interests me.
