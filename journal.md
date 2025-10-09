@@ -27,3 +27,6 @@ cafeteria. Playing games on the chromebook would be banned in class, but on pers
 
 # October 8, 2025
 I did the same Hourofcode activity as yesterday, the Compute It activity because it seems to be the only one that interests me.
+
+# October 9, 2025 
+I did the same Hourofcode activity as yesterday because, like I said, it seems to be the only interesting thing in Hourofcode
