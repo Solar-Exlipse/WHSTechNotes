@@ -36,3 +36,9 @@ https://www.canva.com/ai/code/thread/87f87ba0-df22-447e-8327-49374223838f
 
 In this, my prompt was supposed to make a simple four question quiz with college chemistry questions and have an explanation if the answer to the questions were correct or incorrect. Canva intrepreted it pretty well, giving a good way to see the question and the answers, and even showed how much the quiz-taker got correct even though that wasn't in my prompt. The best interactive parts were the answering the questions into the explanations on why it was correct or not. One thing I could probably do to improve my prompt is to actually try and tell the AI what the quiz is aimed at to make it more engaging to someone who probably wouldn't be enganged to learn about the topic I choose.
 
+# October 20, 2025
+| Journalists | Seats | Class
+|-------------|-------|------
+| Franklin | 91A | Second Class
+| Hardeep | 61F | Third Class
+| Marla | 35B | First Class
