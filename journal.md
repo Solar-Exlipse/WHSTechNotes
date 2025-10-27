@@ -42,3 +42,10 @@ In this, my prompt was supposed to make a simple four question quiz with college
 | Franklin | 91A | Second Class
 | Hardeep | 61F | Third Class
 | Marla | 35B | First Class
+
+# October 27, 2025
+| Name | Main Dish | Dessert
+| -----|-----------|--------
+| Fiona | Gado Gado | Creme Brulee
+| Tobias | Shrimp Ceviche | French Apple Cake
+| Leanne | Beef Wellington | Raspberry Tiramisu
