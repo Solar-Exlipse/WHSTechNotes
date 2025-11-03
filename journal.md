@@ -49,3 +49,6 @@ In this, my prompt was supposed to make a simple four question quiz with college
 | Fiona | Gado Gado | Creme Brulee
 | Tobias | Shrimp Ceviche | French Apple Cake
 | Leanne | Beef Wellington | Raspberry Tiramisu
+
+# November 3, 2025
+If SNAP runs out of funding, especially with as big as a program as SNAP was, then many people and families run out of food or any way to pay for said food. Technology could help by letting people be able to find the nearest food bank, grocery store or free meal program as well as letting them be able to navigate to the area, and it can also be able to helpful to be able to use tech as a way to see how long the food they are getting can last in an estimate. Some of the biggest challenges with using technology for this is the fact that sometimes, people don't have internet or phones and many people could be considered about the safety and privacy for the people using the technological tools that are hypothetically provided. If I was designing something to help with food insecurity, it would probably be an online 'store' where most of the food would be free, and we would try to be able to deliver to the places they are if they can't come and pick it up from where we were. 
