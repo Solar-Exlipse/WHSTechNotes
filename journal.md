@@ -55,3 +55,6 @@ If SNAP runs out of funding, especially with as big as a program as SNAP was, th
 
 # November 10, 2025
 Technology changed the way we connect during the holiday by making it easier to celebrate and call when people aren't together with each other. These changes make the holidays better as it helps families connect and celebrate with each other, and they can make it a funnier experience with having special effects on. Developers should make sure the technology doesn't go over family time, as it should respect the privacy because having the technology override the privacy and the emotional part of family bonding.
+
+# November 17, 2025
+THANKSGIVING BREAK IS BREAK I CAN'T WAIT NO SCHOOL YAY
