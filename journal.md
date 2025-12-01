@@ -58,3 +58,6 @@ Technology changed the way we connect during the holiday by making it easier to 
 
 # November 17, 2025
 THANKSGIVING BREAK IS BREAK I CAN'T WAIT NO SCHOOL YAY
+
+# December 1, 2025
+A real world job that uses drones is drone progamming. Progammers in this job help program what the drone is meant to do and used for. From statistics from Ziprecruiter.com state that the annual median income nation-wide is $116,463. The education required is a Bachlor's or higher in Computer Science or Engineering. I'd love to have this job in the future because it is a job that mixes some of my favorite things: Progamming and drones. It also is a job that seems to be able to be done on my own pace, and that's always a plus for me.
