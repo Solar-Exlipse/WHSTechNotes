@@ -61,3 +61,6 @@ THANKSGIVING BREAK IS BREAK I CAN'T WAIT NO SCHOOL YAY
 
 # December 1, 2025
 A real world job that uses drones is drone progamming. Progammers in this job help program what the drone is meant to do and used for. From statistics from Ziprecruiter.com state that the annual median income nation-wide is $116,463. The education required is a Bachlor's or higher in Computer Science or Engineering. I'd love to have this job in the future because it is a job that mixes some of my favorite things: Progamming and drones. It also is a job that seems to be able to be done on my own pace, and that's always a plus for me.
+
+# December 8, 2025
+I think a self-driving car would face the problem of not recognising the stop sign on the yellow bus because of the fact that the stop sign is connected a bus, a vehicle that they should be able to drive past even when stopped. The two biggest challenges would be the size of the bus and the AI not recognizing it as an actual stop sign. The second challenge is sself-explanatory, if the AI doesn't recognize it as a stop sign, it won't stop. However, the size of the bus or car would matter because the camera would probably not catch the stop sign due to the size of the bus. If I was a Waymo employee I would try to make an emergency stop whenever there is a stopped bus or try to progam it to do exactly that. 
