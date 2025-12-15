@@ -64,3 +64,6 @@ A real world job that uses drones is drone progamming. Progammers in this job he
 
 # December 8, 2025
 I think a self-driving car would face the problem of not recognising the stop sign on the yellow bus because of the fact that the stop sign is connected a bus, a vehicle that they should be able to drive past even when stopped. The two biggest challenges would be the size of the bus and the AI not recognizing it as an actual stop sign. The second challenge is sself-explanatory, if the AI doesn't recognize it as a stop sign, it won't stop. However, the size of the bus or car would matter because the camera would probably not catch the stop sign due to the size of the bus. If I was a Waymo employee I would try to make an emergency stop whenever there is a stopped bus or try to progam it to do exactly that. 
+
+# December 15, 2025
+My main plans for winter break is to play games, christmas, and just do stuff.
