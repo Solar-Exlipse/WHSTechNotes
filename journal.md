@@ -31,6 +31,9 @@ I did the same Hourofcode activity as yesterday, the Compute It activity because
 # October 9, 2025 
 I did the same Hourofcode activity as yesterday because, like I said, it seems to be the only interesting thing in Hourofcode
 
+# January 6, 2026
+The arefour ways I used technology during the break. The first way was that I was playing my new games on my Nintendo Switch, the second way is that I watched YouTube shorts, the third way is I played games on my phones and I always watched TV
+
 # October 14, 2025
 https://www.canva.com/ai/code/thread/87f87ba0-df22-447e-8327-49374223838f 
 
