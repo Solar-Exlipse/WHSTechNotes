@@ -70,3 +70,6 @@ I think a self-driving car would face the problem of not recognising the stop si
 
 # December 15, 2025
 My main plans for winter break is to play games, christmas, and just do stuff.
+
+# Janurary 12, 2026
+Autcraft was created because people were cyberbullying neuodivergent people online, for Autcraft, specifically minecraft. It was created to make a safe space for people and make sure no bullies or any people wouldn't bully them. Developers should try to moderate their games, especially social ones, because the users are permanantly anyonamys.
