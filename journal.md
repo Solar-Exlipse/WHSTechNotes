@@ -73,3 +73,6 @@ My main plans for winter break is to play games, christmas, and just do stuff.
 
 # Janurary 12, 2026
 Autcraft was created because people were cyberbullying neuodivergent people online, for Autcraft, specifically minecraft. It was created to make a safe space for people and make sure no bullies or any people wouldn't bully them. Developers should try to moderate their games, especially social ones, because the users are permanantly anyonamys.
+
+# Janurary 20, 2026
+One way technology can help make a fair society is by helping people record things that wouldn't have been able to be recorded before tech existed so they can clear their names on things they are accused of, as well as being able to incriminate people with undeniable evidence.
