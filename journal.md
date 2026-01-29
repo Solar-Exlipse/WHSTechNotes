@@ -76,3 +76,6 @@ Autcraft was created because people were cyberbullying neuodivergent people onli
 
 # Janurary 20, 2026
 One way technology can help make a fair society is by helping people record things that wouldn't have been able to be recorded before tech existed so they can clear their names on things they are accused of, as well as being able to incriminate people with undeniable evidence.
+
+# Janurary 29, 2026
+I did the English and Language MAP test. It honestly went better well and felt incredibly easy, and I think I did well on the test. I think test prep might hurt me more than help me because I would complete stop thinking about anything the prep taught me because my brain would think it was already done.
