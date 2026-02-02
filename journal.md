@@ -79,3 +79,7 @@ One way technology can help make a fair society is by helping people record thin
 
 # Janurary 29, 2026
 I did the English and Language MAP test. It honestly went better well and felt incredibly easy, and I think I did well on the test. I think test prep might hurt me more than help me because I would complete stop thinking about anything the prep taught me because my brain would think it was already done.
+
+# Febraury 2, 2026
+
+1: How personal hygine and self-care is important because it helps keep you clean and non-distracting to people, 2: Things like loud conversations can distract people because they probably would want to join into the conversation they are hearing
