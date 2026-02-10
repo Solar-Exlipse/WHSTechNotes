@@ -83,3 +83,6 @@ I did the English and Language MAP test. It honestly went better well and felt i
 # Febraury 2, 2026
 
 1: How personal hygine and self-care is important because it helps keep you clean and non-distracting to people, 2: Things like loud conversations can distract people because they probably would want to join into the conversation they are hearing
+
+# Febraury 10, 2026
+I do not like football because it doesn't interest me in the slightest, and i did not watch the Superbowl.
