@@ -86,3 +86,6 @@ I did the English and Language MAP test. It honestly went better well and felt i
 
 # Febraury 10, 2026
 I do not like football because it doesn't interest me in the slightest, and i did not watch the Superbowl.
+
+# Febraury 23, 2026
+The technology with the biggest impact in fairness was the Instant Replay mechanism. The instant replay helped with declaring one of the teams the loser and the other the winner, or seeing things like goals in hockey. It helped stop arguments from forming as well, as they could see it instantly what had truly happened.
