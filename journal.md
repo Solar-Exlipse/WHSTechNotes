@@ -89,3 +89,19 @@ I do not like football because it doesn't interest me in the slightest, and i di
 
 # Febraury 23, 2026
 The technology with the biggest impact in fairness was the Instant Replay mechanism. The instant replay helped with declaring one of the teams the loser and the other the winner, or seeing things like goals in hockey. It helped stop arguments from forming as well, as they could see it instantly what had truly happened.
+
+
+# March 2nd, 2026
+Job 1:
+Company: University Health
+Job Title: Network Engineer
+Education Required: Bachelor's Degree in computer-related field.
+Experince Required: 1-3 years of networking experience
+Skills/tools/languages: Working knowledge of networking fundamentals, experince toubleshooting networking hardware, and strong customer service, communication, and documntation skills
+
+Job 2:
+Company: Johnson Brothers Liquor Company 
+Job Title: IT Support Analyst
+Education Required: 2 year Information Technology or related degree 
+Experince Required: 1 year experince
+Skills: People skills, knowledge and proficinciy of Windows apps, remote toubleshooting, networking
