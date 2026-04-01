@@ -105,3 +105,6 @@ Job Title: IT Support Analyst
 Education Required: 2 year Information Technology or related degree 
 Experince Required: 1 year experince
 Skills: People skills, knowledge and proficinciy of Windows apps, remote toubleshooting, networking
+
+# March 30, 2026
+In this year's March Madness, the Wisconsin vs High Point match was an upset with High Point, seeded at 12 beat Wisconsin, seeded on at 5. I think this upset happen due to the intensive practice and the drive to put up a challenge agaisnt a higher seeded team. I think, for many computers, it is hard to take into account Team Morale, because it can change on a whim, same thing with injuries. If I made a program, it would struggle with Team Morale, mostly, as it could change minutes before the game begins, so it would be hard to predict a result beforehand.
