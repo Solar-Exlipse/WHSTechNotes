@@ -114,3 +114,6 @@ My strategy for convincing AI is to use the data and facts that, while impulsive
 
 # April 13, 2026
 No, modern space technology will not be reliable with making missions to the Moon, or Mars, and back. The main issue that occured is the communication blackouts, becuase not being able to communicate with Earth would heavily make people not understand what is happening on Earth or what is happening in the ship. Two technologies was the communication device that connects Earth to the Orion Spacecraft which allowed the two groups to communicate with each other, and one of the issues was the planned communication blackout, as that means communication, when it got back on, could have had a severe disconnect between the two groups.  
+
+# April 20, 2026
+AI makes people distrust the media less than normal, as you now need to figure out if the video is real or AI-generated before anything else. 
