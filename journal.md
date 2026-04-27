@@ -117,3 +117,6 @@ No, modern space technology will not be reliable with making missions to the Moo
 
 # April 20, 2026
 AI makes people distrust the media less than normal, as you now need to figure out if the video is real or AI-generated before anything else. 
+
+# April 27, 2026
+One of the main things I've paid attention to is the Vocaloid music. Vocaloid is a voice synthesizer for music, with voice database that can help with the pitch and tone of whatever song you want to make.
