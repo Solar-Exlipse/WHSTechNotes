@@ -120,3 +120,6 @@ AI makes people distrust the media less than normal, as you now need to figure o
 
 # April 27, 2026
 One of the main things I've paid attention to is the Vocaloid music. Vocaloid is a voice synthesizer for music, with voice database that can help with the pitch and tone of whatever song you want to make.
+
+# May 6, 2026
+I am training AI with what I use in my life. I use ChatGPT for some of the bigger ideas or stories I find interesting and I put it into AI than make my own spin on the idea. I am also training YouTube's algorithm's AI as it helped recommend videos I may like. 
