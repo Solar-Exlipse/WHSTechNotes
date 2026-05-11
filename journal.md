@@ -123,3 +123,6 @@ One of the main things I've paid attention to is the Vocaloid music. Vocaloid is
 
 # May 6, 2026
 I am training AI with what I use in my life. I use ChatGPT for some of the bigger ideas or stories I find interesting and I put it into AI than make my own spin on the idea. I am also training YouTube's algorithm's AI as it helped recommend videos I may like. 
+
+# May 11, 2026
+The biggest area I grew in is leadership and being able to take charge if a situation demands it because I am in ROTC.
